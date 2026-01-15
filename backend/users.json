@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "id" : 1,
+            "firstname" : "Admin",
+            "lastname" : "principal",
+            "email" : "AdminPassword123@!",
+            "type" : "admin"
+        },
+        {
+            "id" : 2,
+            "firstname" : "Jean",
+            "lastname" : "Dupont",
+            "email" : "jean.dupont@gmail.com",
+            "password" : "Password123@!",
+            "type" : "user"
+        }
+    ]
+}
