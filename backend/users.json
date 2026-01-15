@@ -4,7 +4,8 @@
             "id" : 1,
             "firstname" : "Admin",
             "lastname" : "principal",
-            "email" : "AdminPassword123@!",
+            "email" : "admin@boxletter.com",
+            "password" : "AdminPassword123@!",
             "type" : "admin"
         },
         {
