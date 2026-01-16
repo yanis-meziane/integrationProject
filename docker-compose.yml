@@ -27,8 +27,8 @@ services:
 
   frontend:
     build:
-      context: .
-      dockerfile: Dockerfile.frontend
+      context: ./src
+      dockerfile: Dockerfile
     container_name: boxletter-frontend
     ports:
       - "80:80"
