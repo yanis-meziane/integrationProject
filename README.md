@@ -15,6 +15,9 @@ Clé publique :
 
 51.120.121.235
 
+<img width="2278" height="586" alt="Image 16-01-2026 à 14 45" src="https://github.com/user-attachments/assets/88cf3fcb-b59d-473e-b8b2-5286e0a9fa0f" />
+
+
 
 ## Problèmes rencontrés 
 
