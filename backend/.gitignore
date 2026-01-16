@@ -31,3 +31,8 @@ yarn-error.log*
 
 # Docker
 *.tar
+
+# Fichier sensible à ignorer
+./backend/users.json
+./backend/movies.json
+./backend/ratings.json
